@@ -5,7 +5,8 @@ This plugin prevents passwords that are founded on the top 100K hacked passwords
 Hacware, Inc. www.hacware.com created this extension to prevent the signin and signup process from allowing end-users from using these passwords.
 
 ## Pre Reqs
-Pre Reqs - jQuery Validation Plugin - v1.19.1 or later
+Pre Reqs - jQuery Validation Plugin - v1.19.1 or later.  Go to https://jqueryvalidation.org/
+The entire forked project is here: https://github.com/Hacware-Inc/jquery-validation
 
 ## Getting Started
 To Install in HTML webpage, do the following:
