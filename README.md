@@ -35,3 +35,4 @@ To Install in HTML webpage, do the following:
 ## License
 Copyright &copy; Hacware, Inc.<br>
 Licensed under the MIT license.
+
