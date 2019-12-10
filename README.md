@@ -1,4 +1,4 @@
-# Check Hacked Pass Extenstion
+# Check Hacked Pass Extension
 ================================
 
 This plugin prevents passwords that are founded on the top 100K hacked passwords list. This list was released by Britain’s National Cyber Security Center (NCSC) in collaboration with the Have I Been Pwned website. 
