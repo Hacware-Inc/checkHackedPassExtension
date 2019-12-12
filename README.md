@@ -32,6 +32,16 @@ To Install in HTML webpage, do the following:
         }});
 </script>
 ```
+## Product Road Map for 2019 and 2020
+Here are the known issues and improvements that we are planning to address:
+* Reduce the size of the checkHackedPass.js
+* Add NPM installation capabilities
+* Create a separate function for other Front End programming languages like React Native
+* Create a validator that checks APIs for Hacked Credentials
+* Make validator configurable to display a warning vs banning
+* Make validator configurable to select top X hacked passwords vs 100K
+Thank you for all of the great feedback and our team is planning to release these updates as soon as possible. 
+
 ## License
 Copyright &copy; Hacware, Inc.<br>
 Licensed under the MIT license.
