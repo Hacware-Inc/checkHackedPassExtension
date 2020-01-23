@@ -48,6 +48,6 @@ Here are the known issues and improvements that we are planning to address:
 Thank you for all of the great feedback and our team is planning to release these updates as soon as possible. 
 
 ## License
-Copyright &copy; Hacware, Inc.<br>
+Copyright &copy; 2020 Hacware, Inc.<br>
 Licensed under the MIT license.
 
